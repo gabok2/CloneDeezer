@@ -1,0 +1,241 @@
+{
+  "Musica": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/WefIv14.png",
+      "description": "Um mix contendo Orochi, Pk, Mãolee, Big Mountain"
+    }
+  ],
+  "Destaques": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/xww0T1p.png",
+      "title": "Céu da Semana",
+      "description": "Ouça o Especial: Covid-19"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/MsmU0M3.png",
+      "title": "Essenciais",
+      "description": "Novo episódio com Adriana Calcanhotto"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/Om7nPs9.png",
+      "title": "Sertanejo",
+      "description": "por Gusttavo Lima"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/lj1H6QH.png",
+      "title": "Ficando em casa",
+      "description": "muitas playlists pra relaxar, trabalhar..."
+    }
+  ],
+  "PlaylistsRecomendadas": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/c5OFWRo.png",
+      "title": "Nosso Pop",
+      "description": "60 faixas"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/uBfYjmx.png",
+      "title": "Vem pro Sertanejo por Gusttavo Lima",
+      "description": "70 faixas"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/og6JBaQ.png",
+      "title": "Sertanejo Apaixonado por Gusttavo L...",
+      "description": "51 faixas"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/nsLVNth.png",
+      "title": "Top 50 Sertanejo por Gusttavo Lima",
+      "description": "50 faixas"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/JTscfYx.png",
+      "title": "Funk Pop",
+      "description": "60 faixas"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/01H7PVc.png",
+      "title": "#HITOU",
+      "description": "60 faixas"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/LLwpOTr.png",
+      "title": "Funkadão",
+      "description": "60 faixas"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/eEvhKHN.png",
+      "title": "Som de Paredão",
+      "description": "60 faixas"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/3GM9bsu.png",
+      "title": "Só Hits",
+      "description": "60 faixas"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/ZKwhW0H.png",
+      "title": "Rave Funk",
+      "description": "55 faixas"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/1F6W4MD.png",
+      "title": "Festa Sertaneja por Gusttavo Lima",
+      "description": "50 faixas"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/YO50dRf.png",
+      "title": "Deusas do Pop",
+      "description": "60 faixas"
+    }
+  ],
+  "MúsicaGênero": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/BXGdEKV.png",
+      "title": "Sertanejo"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/kLMNnH5.png",
+      "title": "Pop"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/xokD29X.png",
+      "title": "Funk"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/8FsjPJB.png",
+      "title": "Gospel"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/pPDx5yf.png",
+      "title": "Rock"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/mDhZGkZ.png",
+      "title": "Rap"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/hqPQv2m.png",
+      "title": "Forró"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/dcIu7rD.png",
+      "title": "Música brasileira"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/RDF1xu9.png",
+      "title": "Música eletrônica"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/IguENCI.png",
+      "title": "Dance e EDM"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/3eOL0na.png",
+      "title": "Reggae"
+    }
+  ],
+  "LançamentosRecomendados": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/WgvZooA.png",
+      "title": "SIM (Ao Vivo)",
+      "description": "Naira Azevedo"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/L9luU8G.png",
+      "title": "A Última",
+      "description": "Hugo & Guilherme"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/gNHgCPu.png",
+      "title": "Future Nostalgia",
+      "description": "Dua Lipa",
+      "explicit": "EXPLICIT"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/8STm9j0.png",
+      "title": "CALM",
+      "description": "5 Seconds Of Summer"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/h14IfUe.png",
+      "title": "Se essa vida fosse um filme",
+      "description": "Giulia Be"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/MItFOSe.png",
+      "title": "Compromisso com a dança",
+      "description": "MC WM"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/nhcCygw.png",
+      "title": "No Baile",
+      "description": "Felipe Original"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/VdA78vX.png",
+      "title": "Você Não É Professora Mas Dá Aula n...",
+      "description": "Dj Dollynho da Lapa"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/tYlUvGT.png",
+      "title": "Por Mais Beijos Ao Vivo (ao Vivo)",
+      "description": "Zé Neto & Cristiano"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/LyxCVfc.png",
+      "title": "Bate Com a Bundinha",
+      "description": "Mc Hollywood"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/tVTqnQB.png",
+      "title": "111",
+      "description": "Pabllo Vittar"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/PucrH6M.png",
+      "title": "Desejando Eu (Ao Vivo)",
+      "description": "Murilo Huff"
+    }
+  ]
+}
