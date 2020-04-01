@@ -2,44 +2,34 @@ import React, { useState, useEffect } from 'react';
 import { FlatList } from 'react-native';
 
 import api from '../../services/api';
-import {
-  Container,
-  Titulo,
-  Container2,
-  Imagem,
-  TituloImage,
-  SubTitulo,
-  Colum,
-} from './styles';
+import { Container, Titulo, Container2, Imagem, TituloImage } from './styles';
 
 export default function Destaques() {
-  const [playlist, setPlaylist] = useState([]);
+  const [genero, setGenero] = useState([]);
 
-  async function Playlists() {
-    const response = await api.get('/Recomendadas');
+  async function Generos() {
+    const response = await api.get('/Generos');
 
-    setPlaylist(response.data);
+    setGenero(response.data);
   }
 
   useEffect(() => {
-    Playlists();
+    Generos();
   }, []);
 
   return (
     <Container>
-      <Titulo>Playlists recomendadas</Titulo>
+      <Titulo>Música por gênero</Titulo>
 
       <FlatList
-        data={playlist}
+        data={genero}
         keyExtractor={(item) => String(item.id)}
         horizontal
         renderItem={({ item }) => (
           <Container2>
             <Imagem resizeMode="contain" source={{ uri: item.image }} />
-            <Colum>
-              <TituloImage>{item.title}</TituloImage>
-              <SubTitulo>{item.description}</SubTitulo>
-            </Colum>
+
+            <TituloImage>{item.title}</TituloImage>
           </Container2>
         )}
       />

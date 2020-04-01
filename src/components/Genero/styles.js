@@ -16,21 +16,14 @@ export const Titulo = styled.Text`
 
 export const Container2 = styled.View`
   padding: 0 10px;
+  width: 180px;
 `;
 
 export const Imagem = styled.Image`
-  width: 150px;
-  height: 230px;
+  width: 50px;
+  height: 100px;
   border-radius: 4px;
   position: relative;
-
-  bottom: 30px;
-`;
-
-export const Colum = styled.View`
-  position: relative;
-  bottom: 55px;
-  width: 150px;
 `;
 
 export const TituloImage = styled.Text`

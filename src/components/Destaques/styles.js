@@ -9,6 +9,8 @@ export const Titulo = styled.Text`
   margin-left: 10px;
   color: #fff;
   font-weight: bold;
+  position: relative;
+  top: 30px;
 `;
 
 export const Container2 = styled.View`

@@ -23,7 +23,7 @@ export default function Música() {
   const [musica, setMusica] = useState([]);
 
   async function Musicas() {
-    const response = await api.get('/Musica');
+    const response = await api.get('/Musicas');
 
     setMusica(response.data);
   }
@@ -37,7 +37,6 @@ export default function Música() {
       <Titulo>Música</Titulo>
       <SubTitulo>Feito para você</SubTitulo>
       <FlatList
-        horizontal
         data={musica}
         keyExtractor={(item) => String(item.id)}
         renderItem={({ item }) => (

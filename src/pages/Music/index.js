@@ -5,6 +5,7 @@ import Header from '../../components/Header/header';
 import Musica from '../../components/Música';
 import Destaques from '../../components/Destaques';
 import PlaylistReco from '../../components/PlaylistRecomendas';
+import Genero from '../../components/Genero';
 
 import { Container } from './styles';
 
@@ -19,6 +20,7 @@ export default function Music() {
       <Musica />
       <Destaques />
       <PlaylistReco />
+      <Genero />
     </Container>
   );
 }
