@@ -10,6 +10,8 @@ import {
   Title,
   Description,
   Grup,
+  SubTitulo,
+  SubTitulo2,
 } from './styles';
 
 export default function Destaques() {
@@ -39,6 +41,9 @@ export default function Destaques() {
             <Grup>
               <Title>{item.title}</Title>
               <Description>{item.description}</Description>
+              <SubTitulo>{item.teste1}</SubTitulo>
+
+              <SubTitulo2>{item.teste2}</SubTitulo2>
             </Grup>
           </Container2>
         )}

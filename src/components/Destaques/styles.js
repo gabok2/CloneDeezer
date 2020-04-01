@@ -42,6 +42,21 @@ export const Description = styled.Text`
   font-size: 13px;
   margin-top: 10px;
   color: #fff;
-  width: 130px;
-  right: 20px;
+
+  right: 12px;
+`;
+
+export const SubTitulo = styled.Text`
+  font-size: 13px;
+
+  color: #fff;
+
+  right: 4px;
+`;
+export const SubTitulo2 = styled.Text`
+  font-size: 13px;
+
+  color: #fff;
+
+  right: 2px;
 `;

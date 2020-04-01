@@ -10,8 +10,10 @@
     {
       "id": 1,
       "image": "https://i.imgur.com/xww0T1p.png",
-      "title": "Céu da Semana",
-      "description": "Ouça o Especial: Covid-19"
+      "title": "Céu da",
+      "description": "Semana:",
+      "teste1": "Ouça o Especial",
+      "teste2": "Covid-19"
     },
     {
       "id": 2,
@@ -25,13 +27,17 @@
       "id": 3,
       "image": "https://i.imgur.com/Om7nPs9.png",
       "title": "Sertanejo",
-      "description": "por Gusttavo Lima"
+      "description": "por Gusttavo",
+      "teste1": "Lima"
     },
     {
       "id": 4,
       "image": "https://i.imgur.com/lj1H6QH.png",
-      "title": "Ficando em casa",
-      "description": "muitas playlists pra relaxar, trabalhar..."
+      "title": "Ficando em",
+      "description": "casa",
+      "teste1": "muitas playlists",
+      "teste2": "pra relaxar,",
+      "teste3": "trabalhar..."
     }
   ],
   "PlaylistsRecomendadas": [
