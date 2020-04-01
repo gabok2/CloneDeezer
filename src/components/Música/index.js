@@ -9,7 +9,14 @@ import {
   SubTitulo,
   Imagem,
   Descricao,
+  DescricaoFlow,
   Container2,
+  Flow,
+  Colum,
+  TextoFlow,
+  Play,
+  Background,
+  Background2,
 } from './styles';
 
 export default function Música() {
@@ -23,7 +30,6 @@ export default function Música() {
 
   useEffect(() => {
     Musicas();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
@@ -35,8 +41,27 @@ export default function Música() {
         keyExtractor={(item) => String(item.id)}
         renderItem={({ item }) => (
           <Container2>
-            <Imagem resizeMode="contain" source={{ uri: item.image }} />
-            <Descricao>{item.description}</Descricao>
+            <Colum>
+              <Flow
+                start={{ x: 0, y: 0 }}
+                end={{ x: 1, y: 0 }}
+                colors={['#4896ab', '#c0729f', '#f2715c', '#f8a33d']}
+              />
+              <TextoFlow>flow</TextoFlow>
+              <DescricaoFlow>
+                Um mix infinito de faixas mais queridas e novas
+              </DescricaoFlow>
+              <Background>
+                <Play size={50} name="play" color="#fff" />
+              </Background>
+            </Colum>
+            <Colum>
+              <Imagem resizeMode="contain" source={{ uri: item.image }} />
+              <Descricao>{item.description}</Descricao>
+              <Background2>
+                <Play size={50} name="play" color="#fff" />
+              </Background2>
+            </Colum>
           </Container2>
         )}
       />

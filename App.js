@@ -8,7 +8,7 @@ import Routes from './src/Routes/routes';
 
 const MyTheme = {
   colors: {
-    background: '#000',
+    background: '#111',
   },
 };
 

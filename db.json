@@ -17,7 +17,9 @@
       "id": 2,
       "image": "https://i.imgur.com/MsmU0M3.png",
       "title": "Essenciais",
-      "description": "Novo episódio com Adriana Calcanhotto"
+      "description": "Novo episódio",
+      "teste1": "com Adriana",
+      "teste2": "Calcanhotto"
     },
     {
       "id": 3,

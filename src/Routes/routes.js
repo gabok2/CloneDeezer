@@ -32,7 +32,7 @@ export default function Routes() {
             type = 'antdesign';
           }
           // You can return any component that you like here!
-          return <Icon ize={25} name={iconName} color={color} type={type} />;
+          return <Icon size={25} name={iconName} color={color} type={type} />;
         },
       })}
       tabBarOptions={{
