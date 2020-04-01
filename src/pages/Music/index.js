@@ -1,8 +1,10 @@
 import React from 'react';
 import { YellowBox } from 'react-native';
 
+import Header from '../../components/Header/header';
 import Musica from '../../components/Música';
 import Destaques from '../../components/Destaques';
+import PlaylistReco from '../../components/PlaylistRecomendas';
 
 import { Container } from './styles';
 
@@ -13,8 +15,10 @@ YellowBox.ignoreWarnings([
 export default function Music() {
   return (
     <Container>
+      <Header />
       <Musica />
       <Destaques />
+      <PlaylistReco />
     </Container>
   );
 }

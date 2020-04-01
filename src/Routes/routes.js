@@ -2,7 +2,7 @@ import React from 'react';
 import { Icon } from 'react-native-elements';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
-import Music from './Stack';
+import Music from '../pages/Music';
 import Mic from '../pages/Mic';
 import Like from '../pages/Like';
 import Search from '../pages/Search';
