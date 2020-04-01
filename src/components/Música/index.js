@@ -37,6 +37,7 @@ export default function Música() {
       <Titulo>Música</Titulo>
       <SubTitulo>Feito para você</SubTitulo>
       <FlatList
+        horizontal
         data={musica}
         keyExtractor={(item) => String(item.id)}
         renderItem={({ item }) => (
