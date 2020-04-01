@@ -16,7 +16,7 @@ export default function PlaylistRecomendas() {
   const [recomendadas, setRecomendadas] = useState([]);
 
   async function Playlist() {
-    const response = await api.get('/PlaylistsRecomendadas');
+    const response = await api.get('/MúsicaGênero');
 
     setRecomendadas(response.data);
   }

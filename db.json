@@ -1,39 +1,9 @@
 {
-  "Musica": [
+  "Musicas": [
     {
       "id": 1,
       "image": "https://i.imgur.com/WefIv14.png",
       "description": "Um mix contendo Orochi, Pk, Mãolee, Big Mountain"
-    },
-    {
-      "id": 2,
-      "image": "https://i.imgur.com/uBfYjmx.png",
-
-      "description": "70 faixas"
-    },
-    {
-      "id": 3,
-      "image": "https://i.imgur.com/og6JBaQ.png",
-      "title": "Sertanejo Apaixonado por Gusttavo L...",
-      "description": "51 faixas"
-    },
-    {
-      "id": 4,
-      "image": "https://i.imgur.com/nsLVNth.png",
-      "title": "Top 50 Sertanejo por Gusttavo Lima",
-      "description": "50 faixas"
-    },
-    {
-      "id": 5,
-      "image": "https://i.imgur.com/JTscfYx.png",
-      "title": "Funk Pop",
-      "description": "60 faixas"
-    },
-    {
-      "id": 6,
-      "image": "https://i.imgur.com/01H7PVc.png",
-      "title": "#HITOU",
-      "description": "60 faixas"
     }
   ],
   "Destaques": [
@@ -70,7 +40,7 @@
       "testeCasa3": "trabalhar..."
     }
   ],
-  "PlaylistsRecomendadas": [
+  "Recomendadas": [
     {
       "id": 1,
       "image": "https://i.imgur.com/c5OFWRo.png",
@@ -144,7 +114,7 @@
       "description": "60 faixas"
     }
   ],
-  "MúsicaGênero": [
+  "Gêneros": [
     {
       "id": 1,
       "image": "https://i.imgur.com/BXGdEKV.png",
@@ -201,7 +171,7 @@
       "title": "Reggae"
     }
   ],
-  "LançamentosRecomendados": [
+  "Lançamentos": [
     {
       "id": 1,
       "image": "https://i.imgur.com/WgvZooA.png",
