@@ -21,22 +21,26 @@ export const Container2 = styled.View`
 
 export const Imagem = styled.Image`
   width: 150px;
-  height: 100px;
+  height: 230px;
   border-radius: 4px;
   position: relative;
+
+  bottom: 30px;
 `;
 
 export const TituloImage = styled.Text`
-  font-size: 16px;
+  font-size: 14px;
   position: relative;
-  font-weight: bold;
+
+  width: 160px;
+  color: #fff;
   bottom: 60px;
-  text-align: center;
+
   color: #fff;
 `;
 
 export const SubTitulo = styled.Text`
   font-size: 12px;
-
+  bottom: 60px;
   color: #999;
 `;

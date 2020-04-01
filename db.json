@@ -245,5 +245,171 @@
       "title": "Desejando Eu (Ao Vivo)",
       "description": "Murilo Huff"
     }
+  ],
+  "Informeses": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/GBExHaA.png"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/e3eLdq0.png"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/OUB9oKY.png"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/VaBIekr.png"
+    }
+  ],
+  "Casas": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/NLXRxez.png",
+      "title": "Home Office",
+      "description": "70 faixas"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/NP1ty3G.png",
+      "title": "Rock Office",
+      "description": "65 faixas"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/P7g6v5B.png",
+      "title": "Malhando em Casa",
+      "description": "65 faixas"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/jbDk95l.png",
+      "title": "Soul Coffee",
+      "description": "50 faixas"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/cmCm5qq.png",
+      "title": "Quarantunes",
+      "description": "70 faixas"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/smhFtk7.png",
+      "title": "Jazz for Work (instrumental)",
+      "description": "100 faixas"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/gfSfomF.png",
+      "title": "Home Training",
+      "description": "60 faixas"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/KIfCXxo.png",
+      "title": "Lazy Indie",
+      "description": "50 faixas"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/SkRcP9I.png",
+      "title": "Rock Workout",
+      "description": "50 faixas"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/31Afygk.png",
+      "title": "Deep Focus",
+      "description": "91 faixas"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/bEPAlgp.png",
+      "title": "Housework Motivation",
+      "description": "60 faixas"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/Yw2myoJ.png",
+      "title": "Meditation Electronics",
+      "description": "29 faixas"
+    }
+  ],
+  "Terapias": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/UQsElHI.png",
+      "title": "Happy Hits",
+      "description": "60 faixas"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/k2uanfd.png",
+      "title": "Chill Rap",
+      "description": "60 faixas"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/M0BIxpo.png",
+      "title": "Calmaria",
+      "description": "65 faixas"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/d8smp6h.png",
+      "title": "Café & Rock",
+      "description": "55 faixas"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/l86xsfl.png",
+      "title": "Slow-fi",
+      "description": "40 faixas"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/N2WkfW3.png",
+      "title": "Bom dia, flor do dia",
+      "description": "58 faixas"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/Y69t14X.png",
+      "title": "Acoustic Rock",
+      "description": "70 faixas"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/h0wf0ap.png",
+      "title": "Feel Good Dance",
+      "description": "63 faixas"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/gBkgxna.png",
+      "title": "Island Chill",
+      "description": "73 faixas"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/DYGs6AY.png",
+      "title": "Mellow Days",
+      "description": "60 faixas"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/s5gbhts.png",
+      "title": "Soul to Chill",
+      "description": "80 faixas"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/C6IpLCl.png",
+      "title": "Lo-Fi Beats",
+      "description": "50 faixas"
+    }
   ]
 }
