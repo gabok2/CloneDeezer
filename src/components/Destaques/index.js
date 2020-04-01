@@ -7,11 +7,11 @@ import {
   Titulo,
   Container2,
   Imagem,
-  Title,
-  Description,
+  TitleAdriana,
+  DescriptionAdriana,
   Grup,
-  SubTitulo,
-  SubTitulo2,
+  SubTituloAdriana,
+  SubTituloAdriana2,
 } from './styles';
 
 export default function Destaques() {
@@ -39,11 +39,10 @@ export default function Destaques() {
           <Container2>
             <Imagem resizeMode="contain" source={{ uri: item.image }} />
             <Grup>
-              <Title>{item.title}</Title>
-              <Description>{item.description}</Description>
-              <SubTitulo>{item.teste1}</SubTitulo>
-
-              <SubTitulo2>{item.teste2}</SubTitulo2>
+              <TitleAdriana>{item.titleAdriana}</TitleAdriana>
+              <DescriptionAdriana>{item.descriptionAdriana}</DescriptionAdriana>
+              <SubTituloAdriana>{item.testeAdriana}</SubTituloAdriana>
+              <SubTituloAdriana2>{item.testeAdriana2}</SubTituloAdriana2>
             </Grup>
           </Container2>
         )}

@@ -10,34 +10,34 @@
     {
       "id": 1,
       "image": "https://i.imgur.com/xww0T1p.png",
-      "title1": "Céu da",
-      "description": "Semana:",
-      "teste1": "Ouça o Especial",
-      "teste2": "Covid-19"
+      "titleCov": "Céu da",
+      "descriptionCov": "Semana:",
+      "testeCov": "Ouça o Especial",
+      "testeCov2": "Covid-19"
     },
     {
       "id": 2,
       "image": "https://i.imgur.com/MsmU0M3.png",
-      "title": "Essenciais",
-      "description": "Novo episódio",
-      "teste1": "com Adriana",
-      "teste2": "Calcanhotto"
+      "titleAdriana": "Essenciais",
+      "descriptionAdriana": "Novo episódio",
+      "testeAdriana": "com Adriana",
+      "testeAdriana2": "Calcanhotto"
     },
     {
       "id": 3,
       "image": "https://i.imgur.com/Om7nPs9.png",
-      "title": "Sertanejo",
-      "description": "por Gusttavo",
-      "teste1": "Lima"
+      "titleLima": "Sertanejo",
+      "descriptionLima": "por Gusttavo",
+      "testeLima": "Lima"
     },
     {
       "id": 4,
       "image": "https://i.imgur.com/lj1H6QH.png",
-      "title": "Ficando em",
-      "description": "casa",
-      "teste1": "muitas playlists",
-      "teste2": "pra relaxar,",
-      "teste3": "trabalhar..."
+      "titleCasa": "Ficando em",
+      "descriptionCasa": "casa",
+      "testeCasa": "muitas playlists",
+      "testeCasa2": "pra relaxar,",
+      "testeCasa3": "trabalhar..."
     }
   ],
   "PlaylistsRecomendadas": [

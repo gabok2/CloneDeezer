@@ -30,33 +30,37 @@ export const Grup = styled.View`
   left: 210px;
 `;
 
-export const Title = styled.Text`
+export const TitleAdriana = styled.Text`
   font-size: 18px;
   color: #fff;
   width: 110px;
   font-weight: bold;
-  right: 14px;
+  right: 20px;
 `;
 
-export const Description = styled.Text`
+export const DescriptionAdriana = styled.Text`
   font-size: 13px;
   margin-top: 10px;
   color: #fff;
 
-  right: 12px;
+  right: 15px;
 `;
 
-export const SubTitulo = styled.Text`
+export const SubTituloAdriana = styled.Text`
   font-size: 13px;
 
   color: #fff;
 
-  right: 4px;
+  right: 5px;
 `;
-export const SubTitulo2 = styled.Text`
+export const SubTituloAdriana2 = styled.Text`
   font-size: 13px;
 
   color: #fff;
 
   right: 2px;
 `;
+
+export const Title1 = styled.Text``;
+export const SubTituloCov = styled.Text``;
+export const SubTituloCov2 = styled.Text``;
