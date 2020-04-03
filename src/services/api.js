@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://my-json-server.typicode.com/gabok2/CloneDeezer',
+  baseURL: 'http://a7b4f62b.ngrok.io/',
 });
 
 export default api;

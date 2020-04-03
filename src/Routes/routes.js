@@ -1,15 +1,18 @@
 import React from 'react';
 import { Icon } from 'react-native-elements';
+import Icon2 from 'react-native-vector-icons/AntDesign';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { createStackNavigator } from '@react-navigation/stack';
 
 import Music from '../pages/Music';
 import Mic from '../pages/Mic';
 import Like from '../pages/Like';
 import Search from '../pages/Search';
+import Carrosel from '../pages/Carrosel';
 
 const Tab = createBottomTabNavigator();
 
-export default function Routes() {
+function Routes() {
   return (
     <Tab.Navigator
       screenOptions={({ route }) => ({
@@ -57,5 +60,40 @@ export default function Routes() {
       <Tab.Screen name="Favoritos" component={Like} />
       <Tab.Screen name="Busca" component={Search} />
     </Tab.Navigator>
+  );
+}
+
+const Stack = createStackNavigator();
+export default function NewRoutes() {
+  return (
+    <Stack.Navigator
+      screenOptions={{
+        title: true,
+
+        headerBackImage: () => (
+          <Icon2
+            style={{ position: 'relative', left: 10, bottom: 10 }}
+            size={25}
+            name="close"
+            color="#fff"
+          />
+        ),
+        headerTransparent: true,
+        headerTintColor: '#fff',
+        headerTitleAlign: 'center',
+        headerStyle: {
+          height: 75,
+        },
+      }}
+    >
+      <>
+        <Stack.Screen name="Música" component={Routes} />
+        <Stack.Screen
+          options={{ headerTitle: 'Nossos planos' }}
+          name="Carrosel"
+          component={Carrosel}
+        />
+      </>
+    </Stack.Navigator>
   );
 }

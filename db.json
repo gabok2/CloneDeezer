@@ -411,5 +411,495 @@
       "title": "Lo-Fi Beats",
       "description": "50 faixas"
     }
+  ],
+  "Criancas": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/N2ZoY6p.png",
+      "title": "Mundo Disney",
+      "description": "112 faixas"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/mDR0G4W.png",
+      "title": "Festa das Crianças",
+      "description": "50 faixas"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/uoJbMLx.png",
+      "title": "Músicas infantis Brasileiras",
+      "description": "107 faixas"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/cgqhhL6.png",
+      "title": "Happy kids",
+      "description": "30 faixas"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/cfVYcZs.png",
+      "title": "Hora de Dormir",
+      "description": "25 faixas"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/LCY4Cf6.png",
+      "title": "kids at home",
+      "description": "60 faixas"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/hCGQTRx.png",
+      "title": "Gospel kids",
+      "description": "70 faixas"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/6RU9FmR.png",
+      "title": "Lullabies",
+      "description": "50 faixas"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/LJeoBJ2.png",
+      "title": "Jump Around",
+      "description": "40 faixas"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/U0L9L18.png",
+      "title": "Crocodile Rock",
+      "description": "40 faixas"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/mV1KU6w.png",
+      "title": "The Cool kids",
+      "description": "40 faixas"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/Aa59fnO.png",
+      "title": "Dancing kids",
+      "description": "47 faixas"
+    }
+  ],
+  "Moods": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/z7YHSjv.png",
+      "title": "Verão"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/FQ530AH.png"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/duSZWxY.png",
+      "title": "Vida em casa"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/3FiJ9cP.png",
+      "title": "Flashback"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/cbWxO7G.png",
+      "title": "Relax"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/cK22dKE.png",
+      "title": "Romance"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/6QPY6pX.png",
+      "title": "Malhação"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/QROqKMv.png",
+      "title": "Festa"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/4q7Uafk.png",
+      "title": "Moods"
+    }
+  ],
+  "Populares": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/LMTzZr4.png",
+      "title": "#HITOU",
+      "description": "60 faixas"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/o3mqudF.png",
+      "title": "Rock Brasileiro",
+      "description": "60 faixas"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/jDenyLb.png",
+      "title": "Fluxo Liberado",
+      "description": "60 faixas"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/vXiX0VG.png",
+      "title": "Radar Pop",
+      "description": "60 faixas"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/ibt1uUS.png",
+      "title": "Parceira Sertaneja",
+      "description": "65 faixas"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/TTAHesA.png",
+      "title": "Mulherada Arretada",
+      "description": "40 faixas"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/fX7YgSH.png",
+      "title": "Radar Eletrônico",
+      "description": "70 faixas"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/8DEwOwp.png",
+      "title": "Reggae do Brasil",
+      "description": "59 faixas"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/0RNivVZ.png",
+      "title": "R&Bonde",
+      "description": "60 faixas"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/iG1ECgT.png",
+      "title": "Toca MPB",
+      "description": "60 faixas"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/ILqGy08.png",
+      "title": "Louvor Petencostal",
+      "description": "50 faixas"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/pnmRTXP.png",
+      "title": "Top 50 Sertanejo por Gusttavo Lima",
+      "description": "50 faixas"
+    }
+  ],
+  "Ouvidas": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/1rEyiGQ.png",
+      "title": "Top Brazil",
+      "description": "100 faixas"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/k34FHGU.png",
+      "title": "Top Worldwide",
+      "description": "100 faixas"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/Q7xhyfO.png",
+      "title": "Top Usa",
+      "description": "100 faixas"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/RtGmYsB.png",
+      "title": "Top Uk",
+      "description": "100 faixas"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/4I2ITkK.png",
+      "title": "Top Germany",
+      "description": "100 faixas"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/Xx0csiA.png",
+      "title": "Top France",
+      "description": "100 faixas"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/qdIUm94.png",
+      "title": "Top Colombia",
+      "description": "100 faixas"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/1a7YPae.png",
+      "title": "Top Canada",
+      "description": "100 faixas"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/klUMgs8.png",
+      "title": "Top Mexico",
+      "description": "100 faixas"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/kBw73oR.png",
+      "title": "Top Netherlands",
+      "description": "100 faixas"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/RhwEZWH.png",
+      "title": "Top South Africa",
+      "description": "100 faixas"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/JE2sQcl.png",
+      "title": "Top Jamaica",
+      "description": "100 faixas"
+    }
+  ],
+  "Ouvidos": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/KODSFZ6.png",
+      "title": "Por Mais Beijos Ao Vivo (ao Vivo)",
+      "description": "Zé Neto & Cristiano"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/xaUnKff.png",
+      "title": "Celebridade",
+      "description": "Orochi"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/ToEBBNu.png",
+      "title": "Gigaton",
+      "description": "Pearl Jam"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/tT5TV1F.png",
+      "title": "O Embaixador (ao Vivo)",
+      "description": "Gusttavo Lima"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/zI5entA.png",
+      "title": "Buteco do Gusttavo Lima (Deluxe)",
+      "description": "Gusttavo Lima"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/NF1e5IT.png",
+      "title": "O Embaixador in Cariri(Ao Vivo)",
+      "description": "Gusttavo Lima"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/3wgIMxO.png",
+      "title": "111",
+      "description": "Pabllo Vittar"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/LpF8q6G.png",
+      "title": "Ao Vivo no Ibirapuera, Vol.2",
+      "description": "Henrique & Juliano"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/WYuuCyG.png",
+      "title": "Buteco do Gusttavo Lima, Vol.2",
+      "description": "Gusttavo Lima"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/BGl01na.png",
+      "title": "Ao Vivo no Buteco",
+      "description": "Grupo Menos É Mais"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/oeSaWa2.png",
+      "title": "Histórias da Minha Área",
+      "description": "Djonga"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/19eTpTs.png",
+      "title": "Future Nostalgia",
+      "description": "Dua Lipa"
+    }
+  ],
+  "Originals": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/hLrbMor.png",
+      "title": "Faixa a Faixa-PH e Michel",
+      "description": "48 faixas"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/e2gG7lw.png",
+      "title": "Faixa a Faixa-Letrux",
+      "description": "26 faixas"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/DVBsAvy.png",
+      "title": "Faixa a Faixa-Fernando & Sorocaba",
+      "description": "46 faixas"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/tiahl5m.png",
+      "title": "Faixa a Faixa Arnaldo Antunes",
+      "description": "19 faixas"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/1Yflnya.png",
+      "title": "Faixa a Faixa Yasmin Santos",
+      "description": "46 faixas"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/9fWk2u3.png",
+      "title": "Faixa a Faixa-Rashid",
+      "description": "36 faixas"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/qZAnpZB.png",
+      "title": "Faixa a Faixa-Edson & Hudson",
+      "description": "44 faixas"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/NuAH3IK.png",
+      "title": "Faixa a Faixa-Fran",
+      "description": "18 faixas"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/LvKut0S.png",
+      "title": "Faixa a Faixa-Daniela Araújo",
+      "description": "14 faixas"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/wrH1I0I.png",
+      "title": "Faixa a Faixa-Diogo Nogueira",
+      "description": "8 faixas"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/Np9hmhv.png",
+      "title": "Faixa a Faixa Cleber & Cauan",
+      "description": "32 faixas"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/YhzRW90.png",
+      "title": "Faixa a Faixa-Dilsinho",
+      "description": "18 faixas"
+    }
+  ],
+  "Tempos": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/mavfJkm.png",
+      "title": "Pop Brasil Anos 90",
+      "description": "50 faixas"
+    },
+    {
+      "id": 2,
+      "image": "https://i.imgur.com/7UHbHks.png",
+      "title": "Sertanejo Anos 80",
+      "description": "50 faixas"
+    },
+    {
+      "id": 3,
+      "image": "https://i.imgur.com/9NGJNpk.png",
+      "title": "MPB Anos 80",
+      "description": "40 faixas"
+    },
+    {
+      "id": 4,
+      "image": "https://i.imgur.com/El6ODAg.png",
+      "title": "Samba Anos 60",
+      "description": "40 faixas"
+    },
+    {
+      "id": 5,
+      "image": "https://i.imgur.com/hALTotP.png",
+      "title": "Sertanejo Anos 90",
+      "description": "40 faixas"
+    },
+    {
+      "id": 6,
+      "image": "https://i.imgur.com/gQij3WB.png",
+      "title": "Funk Anos 90",
+      "description": "39 faixas"
+    },
+    {
+      "id": 7,
+      "image": "https://i.imgur.com/aCIYks1.png",
+      "title": "Sertanejo Anos 2000",
+      "description": "50 faixas"
+    },
+    {
+      "id": 8,
+      "image": "https://i.imgur.com/QFAVZGk.png",
+      "title": "Rock Brasil Anos 2000",
+      "description": "40 faixas"
+    },
+    {
+      "id": 9,
+      "image": "https://i.imgur.com/P7vATKz.png",
+      "title": "Pop Brasil Anos 2000",
+      "description": "50 faixas"
+    },
+    {
+      "id": 10,
+      "image": "https://i.imgur.com/DnDaFoW.png",
+      "title": "Samba Anos 70",
+      "description": "40 faixas"
+    },
+    {
+      "id": 11,
+      "image": "https://i.imgur.com/5EBTnEx.png",
+      "title": "Rock Brasil Anos 80",
+      "description": "40 faixas"
+    },
+    {
+      "id": 12,
+      "image": "https://i.imgur.com/E1kRWi8.png",
+      "title": "MPB Anos 2000",
+      "description": "50 faixas"
+    }
   ]
 }
